@@ -46,4 +46,12 @@ public class Category {
     public void setDescription(String description) {
         this.description = description;
     }
+
+    public List<Article> getArticles() {
+        return articles;
+    }
+
+    public void setArticles(List<Article> articles) {
+        this.articles = articles;
+    }
 }

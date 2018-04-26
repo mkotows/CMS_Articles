@@ -25,6 +25,7 @@ public class HomePageController {
     ArticleRepository articleRepository;
 
     @GetMapping("/hello")
+//    @ResponseBody
     public String hello (Model model){
 
         List<Article> articles = articleRepository.findAll();
@@ -32,7 +33,7 @@ public class HomePageController {
         return "hello";
 
 //        StringBuilder sb = new StringBuilder();
-//        for (Article article: list){
+//        for (Article article: articles){
 //            sb.append(article +"<br>");
 //        }
 //        return sb.toString();
