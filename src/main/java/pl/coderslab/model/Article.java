@@ -22,7 +22,7 @@ public class Article {
     @ManyToOne(cascade = CascadeType.MERGE)
     Author author;
 
-    @OneToMany
+    @ManyToMany(cascade = CascadeType.MERGE)
     List<Category> categories;
 
     private String content;

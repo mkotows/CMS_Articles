@@ -1,6 +1,12 @@
 /home/mateusz/Desktop/kurs/POZ_JEE_S_03_Spring_Hibernate/SpringCMS/src/main/java/pl/coderslab/controller/TestController.java
 /home/mateusz/Desktop/kurs/POZ_JEE_S_03_Spring_Hibernate/SpringCMS/src/main/java/pl/coderslab/app/SpringDiApplication.java
+/home/mateusz/Desktop/kurs/POZ_JEE_S_03_Spring_Hibernate/SpringCMS/src/main/java/pl/coderslab/controller/HomePageController.java
+/home/mateusz/Desktop/kurs/POZ_JEE_S_03_Spring_Hibernate/SpringCMS/src/main/java/pl/coderslab/repository/AuthorRepository.java
+/home/mateusz/Desktop/kurs/POZ_JEE_S_03_Spring_Hibernate/SpringCMS/src/main/java/pl/coderslab/repository/CategoryRepository.java
+/home/mateusz/Desktop/kurs/POZ_JEE_S_03_Spring_Hibernate/SpringCMS/src/main/java/pl/coderslab/repository/ArticleRepository.java
 /home/mateusz/Desktop/kurs/POZ_JEE_S_03_Spring_Hibernate/SpringCMS/src/main/java/pl/coderslab/app/AppInitializer.java
 /home/mateusz/Desktop/kurs/POZ_JEE_S_03_Spring_Hibernate/SpringCMS/src/main/java/pl/coderslab/model/Author.java
 /home/mateusz/Desktop/kurs/POZ_JEE_S_03_Spring_Hibernate/SpringCMS/src/main/java/pl/coderslab/model/Category.java
+/home/mateusz/Desktop/kurs/POZ_JEE_S_03_Spring_Hibernate/SpringCMS/src/main/java/pl/coderslab/converter/AuthorConverter.java
+/home/mateusz/Desktop/kurs/POZ_JEE_S_03_Spring_Hibernate/SpringCMS/src/main/java/pl/coderslab/converter/CategoryConverter.java
 /home/mateusz/Desktop/kurs/POZ_JEE_S_03_Spring_Hibernate/SpringCMS/src/main/java/pl/coderslab/model/Article.java

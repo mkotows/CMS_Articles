@@ -5,6 +5,8 @@ import org.hibernate.validator.constraints.NotBlank;
 import org.hibernate.validator.constraints.NotEmpty;
 
 import javax.persistence.*;
+import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 @Table(name = "authors")
@@ -19,6 +21,9 @@ public class Author {
 
     @NotBlank
     private String lastName;
+
+    @OneToMany(mappedBy = "author", cascade = CascadeType.MERGE)
+    private List<Article> articles = new ArrayList<>();
 
     public Author() {
     }

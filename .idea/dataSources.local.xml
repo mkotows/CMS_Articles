@@ -9,7 +9,7 @@
       <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
       <user-name>root</user-name>
-      <introspection-schemas>*:bookStore</introspection-schemas>
+      <introspection-schemas>*:bookStore,warsztat6</introspection-schemas>
     </data-source>
   </component>
 </project>

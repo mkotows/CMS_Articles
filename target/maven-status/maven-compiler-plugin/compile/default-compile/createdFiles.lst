@@ -1,6 +1,12 @@
 pl/coderslab/app/AppInitializer.class
-pl/coderslab/app/SpringDiApplication.class
+pl/coderslab/controller/HomePageController.class
+pl/coderslab/repository/CategoryRepository.class
 pl/coderslab/model/Category.class
 pl/coderslab/model/Article.class
 pl/coderslab/controller/TestController.class
+pl/coderslab/converter/CategoryConverter.class
+pl/coderslab/repository/AuthorRepository.class
+pl/coderslab/converter/AuthorConverter.class
 pl/coderslab/model/Author.class
+pl/coderslab/repository/ArticleRepository.class
+pl/coderslab/app/SpringDiApplication.class
